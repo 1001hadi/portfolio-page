@@ -1,0 +1,13 @@
+{
+  "name": "Hadi Jafari",
+  "email": "Self-taught Software Developer",
+  "description": "If you like what you see, contact me",
+  "image": {
+    "src": "../../images/hadi.jpg",
+    "alt": "Hadi Photo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

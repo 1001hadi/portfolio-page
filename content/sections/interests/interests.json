@@ -1,0 +1,58 @@
+{
+  "interests": [
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/html.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NodeJS",
+      "image": {
+        "src": "../../images/node.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/bootstrap.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git/GitHub",
+      "image": {
+        "src": "../../images/git-github.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 6
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "title": "Star Wars API App",
+      "description": "This application creates a searchable table of Star Wars characters using the swapi.dev API. I created this project to get more experience with fetching data from an API and displaying it for the users. This app written in React and javaScript, I used the async/await functionality to resolve the promises of each fetch request to the external API. Data will return and display for the user in a dynamic table which I style with Bootstrap.",
+      "image": {
+        "src": "../../images/starwars-1.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/1001hadi/star-wars-app"
+        },
+        {
+          "type": "external",
+          "url": "https://starwars1001.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Expense Tracker App",
+      "description": "This application gives the ability to track the expenses to the users. I wrote this application with React and javaScrip, And it saves the user's data(expenses) at the user's local storage. users can access their expenses with any device, As this app can return their data in a dynamic table i styled in Bootstrap.",
+      "image": {
+        "src": "../../images/expense.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/1001hadi/ExpenseTracker-App"
+        },
+        {
+          "type": "external",
+          "url": "https://expenses1001.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Calculator App",
+      "description": "This Calculator application has been written in javaScript, HTML and Css. When I started this project I knew it would be a difficult project I'm going to beld, but these challenges helped me understand how the logic works better and improved my debugging skills.",
+      "image": {
+        "src": "../../images/calculator.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/1001hadi/Calculator_App"
+        },
+        {
+          "type": "external",
+          "url": "https://1001hadi.github.io/Calculator_App/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/1001hadi"
+  }
+}
