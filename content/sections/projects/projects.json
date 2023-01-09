@@ -16,7 +16,7 @@
         },
         {
           "type": "external",
-          "url": "https://starwars1001.herokuapp.com/"
+          "url": "https://guileless-sherbet-0b637e.netlify.app/"
         }
       ]
     },
@@ -31,12 +31,12 @@
       },
       "links": [
         {
-          "type": "github",
+          "type": "github ",
           "url": "https://github.com/1001hadi/ExpenseTracker-App"
         },
         {
           "type": "external",
-          "url": "https://expenses1001.herokuapp.com/"
+          "url": "https://celadon-tulumba-057409.netlify.app/"
         }
       ]
     },
@@ -56,14 +56,14 @@
         },
         {
           "type": "external",
-          "url": "https://1001hadi.github.io/Calculator_App/"
+          "url": "https://gleeful-pithivier-29e927.netlify.app/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
+    "label": "Visit My Other Project",
     "url": "https://github.com/1001hadi"
   }
 }
